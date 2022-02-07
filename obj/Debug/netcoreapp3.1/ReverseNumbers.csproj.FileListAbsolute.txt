@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.exe
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.deps.json
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.runtimeconfig.json
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.dll
+C:\Users\SENA\source\repos\ReverseNumbers\bin\Debug\netcoreapp3.1\ReverseNumbers.pdb
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.AssemblyInfo.cs
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.dll
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.pdb
+C:\Users\SENA\source\repos\ReverseNumbers\obj\Debug\netcoreapp3.1\ReverseNumbers.genruntimeconfig.cache
